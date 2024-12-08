@@ -1,0 +1,11 @@
+p{
+    color: #a39d9d;
+    text-align: justify;
+}
+a{
+    color: aquamarine;
+}
+footer,header{
+    background-color: rgb(170, 206, 238);
+    font-size: 15px;
+}
